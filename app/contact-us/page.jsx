@@ -4,6 +4,7 @@ import { BsEnvelope } from "react-icons/bs"
 import ContactBody from './components/ContactBody'
 import { plusJakarta } from '../layout'
 import Footer from '../components/common/Footer'
+
 const Contact = () => {
   return (
     <>
